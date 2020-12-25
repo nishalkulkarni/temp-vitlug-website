@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://recruits.vitlug.tech"
+  status = 200
+  force = true
